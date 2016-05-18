@@ -1,0 +1,1 @@
+java -jar target/sample-dropwizard-rest-stub-1.0-SNAPSHOT.jar server ./config.yml
