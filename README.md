@@ -3,7 +3,8 @@
 Simple example application following the tutorial at
 http://automationrhapsody.com/build-a-rest-stub-server-with-dropwizard/
 
-Compile and package with `mvn clean package`
+Compile and package with `mvn clean package`.
+
 Run with `run-server.cmd` or `run-server.sh`, depending on your platform.
 
 Urls:
